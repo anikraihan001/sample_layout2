@@ -1,0 +1,41 @@
+.logo{
+	background-color: red;
+	min-height: 100px;
+
+}
+.navigation{
+	background-color: blue;
+	min-height: 150px;
+}
+.banner{
+	background-color: orange;
+	min-height: 300px;
+}
+
+.box1{
+	background-color: black;
+	min-height:700px;
+	width: 33.5%;
+	float: left;
+}
+.box2{
+
+
+	background-color: green;
+	min-height:700px;
+	width: 33%;
+	float: left;
+}
+
+.box3{
+background-color: yellow;
+	min-height:700px;
+	width: 33.5%;
+	float: left;
+
+}
+.footer{
+	background-color: purple;
+	min-height: 80px;
+	clear:both;
+}
